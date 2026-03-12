@@ -1,0 +1,92 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Autum Waller"
+date: "03-11-26"
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# W07 Reflection Essay – Introduction to Positron
+Introduction
+
+In this assignment, I explored the Positron development environment and learned how it compares to RStudio. I followed the activities demonstrated in the videos for Step 1 and Step 3 and experimented with the AI tools shown in Step 4.
+
+Positron is a modern data science environment designed to support R, Python, and AI-assisted development.
+
+# Installing and Exploring Positron
+Prompt
+
+Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron. Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+## Response
+
+After following the videos in Step 1 and Step 3, I installed Positron and explored its interface and features. The installation process was straightforward and similar to installing other development tools.
+
+One thing I immediately noticed is that the interface is more modern compared to RStudio. The layout feels cleaner and more flexible. Positron supports multiple programming languages such as R and Python in the same environment, which makes it very useful for data science projects.
+
+Another feature I liked is the improved integration with extensions and development tools. Positron is built with a structure similar to modern code editors, which allows users to customize their environment more easily. Navigation between files and projects is also smoother.
+
+Overall, Positron feels like an updated version of RStudio with more flexibility, better performance, and stronger integration with modern development workflows.
+
+# Using AI Inside Positron
+Prompt
+
+In Step 4, the video demonstrates how you can use AI. Describe the various ways you can use AI inside Positron. Some are free while others are not.
+
+## Response
+
+One of the most powerful features of Positron is its ability to integrate AI tools directly into the coding environment. AI can assist users with writing code, debugging errors, explaining functions, and generating documentation.
+
+Some AI tools available in Positron include code assistants that provide suggestions while typing. These suggestions can help users write code faster and reduce syntax errors. AI can also analyze code and recommend improvements or alternative approaches.
+
+Another way AI can be used is to explain complex code or generate new code snippets based on prompts. This can be very helpful for beginners who are learning programming concepts or for developers who want to speed up their workflow.
+
+Some AI tools are free, while others require subscriptions or special access. Free tools typically provide basic code suggestions, while paid tools often include more advanced features such as full code generation or deeper analysis.
+
+# GitHub Copilot and AI Tools
+Prompt
+
+Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+
+## Response
+
+The AI tool I focused on setting up was GitHub Copilot. GitHub Copilot is an AI coding assistant that helps developers write code by providing automatic suggestions and completing lines of code.
+
+GitHub Copilot can generate functions, suggest corrections, and provide code examples. When working in Positron, the tool integrates directly into the editor and displays suggestions while typing.
+
+I found this tool beneficial because it helps speed up coding tasks and reduces the time needed to search for syntax or examples online. It can also help identify errors or suggest more efficient ways to write code.
+
+For students who are learning programming, tools like GitHub Copilot can also act as a learning assistant by demonstrating how certain functions or programming patterns are written.
+
+# GitHub Copilot Education Account
+Prompt
+
+Apply for GitHub Copilot Education and insert a screenshot showing you were accepted.
+
+## Response
+
+I applied for the GitHub Copilot Education program using my student account. After verification, I received approval to use GitHub Copilot for free as part of the student developer benefits program.
+
+
+# Reflection on Using AI
+Prompt
+
+Play with GitHub Copilot and explain whether you find it helpful or distracting.
+
+## Response
+
+After experimenting with GitHub Copilot, I found that it can be both helpful and slightly distracting depending on how it is used.
+
+On the positive side, Copilot helps generate code suggestions quickly, which saves time and improves productivity. It can complete repetitive coding tasks and provide helpful examples when learning new programming concepts.
+
+However, it can sometimes suggest code that is not exactly what the user intends. This means developers still need to carefully review the suggestions before using them. If someone relies too heavily on AI, it may also reduce the amount of learning that comes from writing code manually.
+
+Overall, I find GitHub Copilot to be more helpful than distracting. When used responsibly, it can significantly improve coding efficiency and support the learning process.
